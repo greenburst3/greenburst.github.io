@@ -1,4 +1,4 @@
-## Current Members
+# Current Members
 
 - Dr Duncan Lorimer (PI)
 - Dr Maura McLaughlin (Co-PI)
