@@ -1,6 +1,6 @@
 ![Greenburst Group Photo](20241017_155945.jpg)
 
-** Current Members **
+**Current Members**
 ---
 - Dr Duncan Lorimer (PI)
 - Dr Maura McLaughlin (Co-PI)
