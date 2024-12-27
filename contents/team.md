@@ -1,5 +1,3 @@
-![Greenburst Group Photo](20241017_155945.jpg)
-
 **Current Members**
 
 - Dr Duncan Lorimer (PI)
