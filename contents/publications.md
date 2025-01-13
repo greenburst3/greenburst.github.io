@@ -1,12 +1,11 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- Kania, Joseph William, "Applications of Digital Filters in Radio Astronomy" (2023). Graduate Theses, Dissertations, and Problem Reports. 12243. [[Paper]](https://researchrepository.wvu.edu/etd/12243)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Paine, S., & Lorimer, D. (2024). Searching for Fast Radio Bursts with Green Bank Observatory. American Astronomical Society Meeting Abstracts, 243, e319.01. [[Abstract]](https://ui.adsabs.harvard.edu/abs/2024AAS...24331901P/abstract)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Stanley, J., Paine, S., & Lorimer, D. (2022). Using GREENBURST to find Astrophysical Radio Pulses. American Astronomical Society Meeting #240, 240, e102.08. [[Abstract]](https://ui.adsabs.harvard.edu/abs/2022AAS...24010208S/abstract)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Agarwal, D., Lorimer, D. R., Surnis, M. P., Pei, X., Karastergiou, A., Golpayegani, G., Werthimer, D., Cobb, J., McLaughlin, M. A., White, S., Armour, W., MacMahon, D. H. E., Siemion, A. P. V., & Foster, G. (2020). Initial results from a real-time FRB search with the GBT. Monthly Notices of the Royal Astronomical Society, 497(1), 352–360. [[Paper]](https://doi.org/10.1093/mnras/staa1927)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- Surnis, M. P., Agarwal, D., Lorimer, D. R., Pei, X., Foster, G., Karastergiou, A., Golpayegani, G., Maddalena, R. J., White, S., Armour, W., Cobb, J., McLaughlin, M. A., MacMahon, D. H. E., Siemion, A. P. V., Werthimer, D., & Williams, C. J. (2019). GREENBURST: A commensal Fast Radio Burst search back-end for the Green Bank Telescope. Publications of the Astronomical Society of Australia, 36. [[Paper]](https://doi.org/10.1017/pasa.2019.26)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 
