@@ -1,6 +1,6 @@
-- Kania, Joseph William, "Applications of Digital Filters in Radio Astronomy" (2023). Graduate Theses, Dissertations, and Problem Reports. 12243. [[Paper]](https://researchrepository.wvu.edu/etd/12243)
-
 - Paine, S., & Lorimer, D. (2024). Searching for Fast Radio Bursts with Green Bank Observatory. American Astronomical Society Meeting Abstracts, 243, e319.01. [[Abstract]](https://ui.adsabs.harvard.edu/abs/2024AAS...24331901P/abstract)
+
+- Kania, Joseph William, "Applications of Digital Filters in Radio Astronomy" (2023). Graduate Theses, Dissertations, and Problem Reports. 12243. [[Paper]](https://researchrepository.wvu.edu/etd/12243)
 
 - Stanley, J., Paine, S., & Lorimer, D. (2022). Using GREENBURST to find Astrophysical Radio Pulses. American Astronomical Society Meeting #240, 240, e102.08. [[Abstract]](https://ui.adsabs.harvard.edu/abs/2022AAS...24010208S/abstract)
 
